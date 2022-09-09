@@ -1,9 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-//Validation algorithm
+//some string methods.
+//is uppercase
 
-    static Boolean IsUppercase(string s){
+  
+  #region Trees
+    
 
-        return s.All(char.IsUpper);
-    }
-    Console.WriteLine(IsUppercase("y"));
-
+#endregion
